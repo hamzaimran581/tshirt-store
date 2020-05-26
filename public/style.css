@@ -1,0 +1,44 @@
+.hhh2{
+    margin-top: -40px;
+    border-top-left-radius : 25px ;
+    border-top-right-radius: 25px;
+    height: 400px auto;
+
+
+}
+
+
+.c2{
+    margin-top: 100px;    width: 220px;
+    height: auto;
+
+}
+
+.hhh1{
+    border-radius: 25px ;
+    height: 480px;
+
+
+}
+
+
+.c1{
+    width: 220px auto;
+    height: 280px ;
+
+
+}
+
+
+@media screen and (min-width: 765px) {
+    .c1 {
+           height: 380px;
+    }
+  }
+
+
+  @media screen and (min-width: 765px) {
+    .card-img-top {
+           height: 230px;
+    }
+  }

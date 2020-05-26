@@ -1,0 +1,4 @@
+[0523/153737.955:ERROR:crashpad.cc(146)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0525/225337.563:ERROR:crashpad.cc(145)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0526/002629.143:ERROR:crashpad.cc(145)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0526/013517.599:ERROR:crashpad.cc(145)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
