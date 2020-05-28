@@ -1,0 +1,55 @@
+.single-product{
+
+    margin-top: 70px;
+}
+  
+
+
+.new-arrival{
+    background: green;
+    width: 50px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 20px;
+
+}
+
+col-md-5{
+
+    color: #555;
+    
+
+
+}
+
+.single-product .fa{
+    color: orange;
+}
+
+.single-product .price{
+    color: orange;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.btn-dark{
+    font-size: 15px;
+    margin-left: 20px;
+    color: #fff;
+    border: none;
+    box-shadow: none !important; 
+}
+
+.discription h6{margin-top: 50px;
+    color: orange;
+
+
+}
+.discription p{
+    margin-top: 30px;
+}
+
+.discription hr {
+    margin-bottom: 50px;
+}
