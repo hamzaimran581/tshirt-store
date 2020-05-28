@@ -21,3 +21,72 @@ col-md-5{
 
 
 }
+
+.single-product .fa{
+    color: orange;
+}
+
+.single-product .price{
+    color: orange;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.btn-dark{
+    font-size: 15px;
+    margin-left: 20px;
+    color: #fff;
+    border: none;
+    box-shadow: none !important; 
+}
+
+.discription h6{margin-top: 50px;
+    color: orange;
+
+
+}
+.discription p{
+    margin-top: 30px;
+}
+
+.discription hr {
+    margin-bottom: 50px;
+}
+
+
+/*                              here                        */
+
+
+.title-box{
+    background-color: orange;
+    color: #fff;
+    width: 285px;
+    padding: 4px 10px;
+    height: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    
+    
+}
+
+.title-box h2{
+
+    font-size: 24px;
+    margin:10px ;
+}
+
+.title-box::after{
+    content: '' ;
+    
+    border-top: 50px solid orange;
+    border-right: 50px solid transparent;
+    position: absolute;
+    display: flex;
+    
+    margin-top: -4;
+    margin-left: 275px ;
+}
+
+
+    /*                         there               */

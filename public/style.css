@@ -30,6 +30,46 @@
 }
 
 
+
+
+ /*                              here                        */
+
+
+.title-box{
+    background-color: orange;
+    color: #fff;
+    width: 285px;
+    padding: 4px 10px;
+    height: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    
+    
+}
+
+.title-box h2{
+
+    font-size: 24px;
+    margin:10px ;
+}
+
+.title-box::after{
+    content: '' ;
+    
+    border-top: 50px solid orange;
+    border-right: 50px solid transparent;
+    position: absolute;
+    display: flex;
+    
+    margin-top: -4;
+    margin-left: 275px ;
+}
+
+
+    /*                         there               */
+
+
+
 @media screen and (min-width: 765px) {
     .c1 {
            height: 380px;
@@ -42,3 +82,7 @@
            height: 230px;
     }
   }
+
+
+
+
